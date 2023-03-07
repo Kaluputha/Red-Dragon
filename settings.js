@@ -32,7 +32,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['+94757379075'] // owner number
 global.ownername = "𝚃𝙴𝙻𝙰𝙽𝙺𝙰 𝙿𝙰𝚂𝙸𝙽𝙳𝚄 ❯❯" // owner name
 global.ytname = "" // yt chanel name
-global.socialm = "GitHub: Kaluputha" // github or insta name
+global.socialm = "GitHub: prabhasha2006/Red-Dragon" // github or insta name
 global.location = "Srilanka, Matara, mirissa" // location
 
 //bot body 
@@ -49,7 +49,7 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 global.owner = ['+94757379075']
 global.ownertag = '+94757379075' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.botname = '𝚃𝙴𝙻𝙰_𝚆𝙰 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
